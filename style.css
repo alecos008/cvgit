@@ -1,0 +1,18 @@
+#header {
+    font-size: 28; 
+    color: #692e85c5; 
+    text-align: center;
+}
+#aboutme {
+    font-size: 18; 
+    text-align: justify;}
+#explist {
+    font-size: 18; 
+    text-align: left; 
+    text-indent: 0.5cm;
+}
+#edulist {
+    font-size: 18; 
+    text-align: left; 
+    text-indent: 0.5cm;
+}
