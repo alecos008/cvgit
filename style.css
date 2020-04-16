@@ -1,7 +1,10 @@
 .header {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
     font-size: 28; 
-    color: #692e85c5; 
+    color:  rgb(31, 41, 107); 
     text-align: center;
+
 }
 #aboutme {
     font-size: 20; 
@@ -19,7 +22,7 @@
     text-align: left;
     text-indent: 0.2cm;
 }
-.exptext{
+.text{
     font-size: 20;
     text-align: left;
     text-indent: 0.5cm;
